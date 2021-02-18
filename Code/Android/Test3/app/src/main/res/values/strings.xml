@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag_a">Fragment A</string>
+    <string name="frag_b">Fragment B</string>
+    <string name="switch_a">Switch</string>
+</resources>
